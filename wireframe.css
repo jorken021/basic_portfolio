@@ -1,0 +1,37 @@
+
+header {
+    background-color: #ebebeb;
+    padding: 20px;
+    margin-bottom: 20px
+    
+}
+
+nav {
+    background-color: #ebebeb;
+    padding: 20px;
+    margin-bottom: 20px
+}
+
+#left {
+    background-color: #ebebeb;
+    width: 495px;
+    float: left;
+}
+
+#middle {
+    background-color: #ebebeb;
+    width: 495px;
+    clear: both;
+}
+
+#right {
+    background-color: #ebebeb;
+    width: 350px;
+    padding: 125px;
+    float: right;
+}
+
+#full {
+    background-color: #ebebeb;
+}
+
